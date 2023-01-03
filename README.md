@@ -1,11 +1,11 @@
 # Netflix-Analysis
 
 CONTENT 
-• Data analysis and data discription.
-• Objective
-• Lookup and Conditionl formatting
-• Business questions to be answered using pivot table and dashboard
-• Finding insights from pivot table and dashboard.
+- Data analysis and data discription.
+- Objective
+- Lookup and Conditionl formatting
+- Business questions to be answered using pivot table and dashboard
+- Finding insights from pivot table and dashboard.
 
 DATA DESCRIPTION
 •	show_id	type	title	director	cast	country	date_added	release_year	rating	duration	listed_in	description
